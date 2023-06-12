@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="btn1"></string>
+    <string name="btn2"></string>
+    <string name="btn3"></string>
+    <string name="btn4"></string>
+    <string name="btn5"></string>
+    <string name="btn6"></string>
+    <string name="btn7"></string>
+    <string name="btn8"></string>
+    <string name="btn9"></string>
+    <string name="lblTurno"></string>
+    <string name="lblDosJugadores"></string>
+    <string name="titulo">Tic \n Tac \n Toe</string>
+
+
+</resources>
